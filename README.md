@@ -1,2 +1,2 @@
-# rangesets
-Microservice which operates on Ranges and RangeSets
+# intervalsets
+Microservice which operates on Intervals and IntervalSets
